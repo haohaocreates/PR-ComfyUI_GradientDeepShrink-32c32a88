@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_gradientdeepshrink"
+description = "Nodes:GradientPatchModelAddDownscale (Kohya Deep Shrink)."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/kinfolk0117/ComfyUI_GradientDeepShrink"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_GradientDeepShrink"
+Icon = ""
